@@ -269,17 +269,4 @@ This project welcomes enhancements in:
 - Customer segmentation algorithms
 - A/B testing framework implementation
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Demonstrates real-world digital analytics applications
-- Built using comprehensive e-commerce data model
-- Showcases advanced SQL techniques for web analytics
-- Serves as a reference for digital marketing analytics implementations
-
----
-
 **⭐ Star this repository if it helped you master digital analytics with SQL!**
