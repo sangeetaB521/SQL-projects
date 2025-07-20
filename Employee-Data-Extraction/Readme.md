@@ -336,16 +336,4 @@ This project welcomes contributions in the form of:
 - Advanced analytics queries
 - Documentation improvements
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Built using the classic MySQL employees sample database structure
-- Demonstrates enterprise-level database management practices
-- Serves as a comprehensive reference for advanced SQL techniques
-
----
-
 **⭐ Star this repository if it helped you master advanced SQL!**
