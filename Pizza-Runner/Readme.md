@@ -365,17 +365,6 @@ This project welcomes enhancements in:
 - A/B testing framework for menu optimization
 - Predictive demand forecasting models
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Demonstrates real-world food delivery analytics applications
-- Built using comprehensive pizza delivery service data model
-- Showcases advanced SQL techniques for restaurant businesses
-- Serves as a reference for food service industry analytics
-
----
 
 **⭐ Star this repository if it helped you master food delivery analytics with SQL!**
