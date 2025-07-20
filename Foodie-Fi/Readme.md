@@ -301,17 +301,4 @@ This project welcomes enhancements in:
 - A/B testing framework for plan optimization
 - Predictive lifetime value calculations
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Demonstrates real-world subscription analytics applications
-- Built using comprehensive streaming service data model
-- Showcases advanced SQL techniques for SaaS businesses
-- Serves as a reference for subscription economy analytics
-
----
-
 **⭐ Star this repository if it helped you master subscription analytics with SQL!**
